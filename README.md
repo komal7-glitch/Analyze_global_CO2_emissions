@@ -12,6 +12,9 @@ This project focuses on analyzing global CO₂ emissions to identify top-emittin
 - Create intuitive Power BI visualizations to communicate findings.
 
 ---
+## 📽️ Dashboard Demo
+
+Watch the full dashboard walkthrough here: [🔗 Click to Watch](https://1drv.ms/v/c/3381e28447be5038/EXwOL4keFWhBmvpbvL_T4jgBhFYMSdigFQ8zi1OhSzDbLg?e=BhraeQ)
 
 ## 🗂️ Dataset
 
